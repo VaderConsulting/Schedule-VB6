@@ -12,3 +12,22 @@ _Note: original OneDrive LastWriteTime values were wiped to 2026-08-27 by a zip 
 |---------|----------|------|---------|
 | `axSchedule` (`ScheduleCtrl.vbp`) | VB6 | ActiveX OCX | Task Scheduler jobs/triggers control (`tsksch.ocx`) |
 | `Test` (`Test/Test.vbp`) | VB6 | WinForms exe | Harness for the schedule control |
+
+## How to open
+
+Open the `.vbp` in Visual Basic 6.0 IDE:
+- `ScheduleCtrl.vbp`
+- `Test/Test.vbp` (optional harness)
+
+## Requirements
+
+- Visual Basic 6.0 IDE
+- Windows Scheduling Agent / Task Scheduler runtime for the OCX
+
+## Attribution and provenance
+
+Third-party control by Eduardo A. Morcillo (Edanmo). Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Old/Schedule`.
+
+## License
+
+Original Edanmo license applies to the control. MIT © 2026 VaderConsulting for Dave Robinson's working-copy packaging. See `LICENSE` and any upstream notices in the tree.
