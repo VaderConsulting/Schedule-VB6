@@ -26,7 +26,7 @@ Open the `.vbp` in Visual Basic 6.0 IDE:
 
 ## Attribution and provenance
 
-Third-party control by Eduardo A. Morcillo (Edanmo). Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Old/Schedule`.
+Third-party control by Eduardo A. Morcillo (Edanmo). Working copy from my Historical Dev folder `VB/Old/Schedule`.
 
 ## License
 
