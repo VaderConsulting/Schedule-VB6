@@ -30,4 +30,4 @@ Third-party control by Eduardo A. Morcillo (Edanmo). Working copy from my Histor
 
 ## License
 
-Original Edanmo license applies to the control. MIT © 2026 VaderConsulting for Dave Robinson's working-copy packaging. See `LICENSE` and any upstream notices in the tree.
+Original Edanmo license applies to the control. MIT © 2026 Vader Consulting for Dave Robinson's working-copy packaging. See `LICENSE` and any upstream notices in the tree.
